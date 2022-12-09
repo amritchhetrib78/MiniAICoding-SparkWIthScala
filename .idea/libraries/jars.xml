@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://G:/DATALAKE-ANALYTICS/BigData-Hadoop/PySpark/spark-3.0.1-bin-hadoop2.7/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://G:/DATALAKE-ANALYTICS/BigData-Hadoop/PySpark/spark-3.0.1-bin-hadoop2.7/jars" />
+    </SOURCES>
+    <jarDirectory url="file://G:/DATALAKE-ANALYTICS/BigData-Hadoop/PySpark/spark-3.0.1-bin-hadoop2.7/jars" recursive="false" />
+    <jarDirectory url="file://G:/DATALAKE-ANALYTICS/BigData-Hadoop/PySpark/spark-3.0.1-bin-hadoop2.7/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
